@@ -1,0 +1,89 @@
+{
+  "name": "mitigation_cb2024-250mt-led",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2026,
+          0.0
+        ],
+        [
+          2027,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-BUS",
+      "seriesValues": [
+        [
+          2046,
+          0.0
+        ],
+        [
+          2047,
+          0.0
+        ],
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-TAXI",
+      "seriesValues": [
+        [
+          2046,
+          0.0
+        ],
+        [
+          2047,
+          0.0
+        ],
+        [
+          2048,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-CAR",
+      "seriesValues": [
+        [
+          2047,
+          0.0
+        ],
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

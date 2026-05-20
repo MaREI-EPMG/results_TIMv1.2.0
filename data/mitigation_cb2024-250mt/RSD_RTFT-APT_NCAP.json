@@ -1,0 +1,91 @@
+{
+  "name": "mitigation_cb2024-250mt",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Apt_D",
+      "seriesValues": [
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
+      "seriesValues": [
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_B3",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_C",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

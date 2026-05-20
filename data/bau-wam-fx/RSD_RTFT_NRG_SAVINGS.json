@@ -1,0 +1,36 @@
+{
+  "name": "bau-wam-fx",
+  "data": [
+    {
+      "seriesName": "RSDSH_Apt-G",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "RSDSH_Att-G",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "RSDSH_Det-G",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
